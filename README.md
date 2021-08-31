@@ -4,7 +4,7 @@ Website: [eddev.com.br](https://eddev.com.br/) | LinkeIn: [Eduardo Matias](https
 
 [Desktop](#desktop) | [Mobile](#mobile)
 
-This is the a simple responsive pictures gallery.  
+This is a simple responsive pictures gallery.  
 You can use or test this project [@eddev13/gallery](https://eddev.com.br/projects/gallery)
 
 * * *
